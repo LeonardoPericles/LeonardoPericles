@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @LeonardoPericles
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá sou Leonardo Péricles, bem-vindo.
+Estou cursando Informática para Internet no IFPE, desejo me tornar um desenvolvedor web e ao decorrer 
+do curso estudei JavaScript e React.Js mas agora estou estudando Java.
 
-<!---
-LeonardoPericles/LeonardoPericles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Linkedin: 
